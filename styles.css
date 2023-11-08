@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    background-color: #3498db;
+    color:darkblue;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #3498db;
+    text-align: center;
+    padding: 10px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 15px;
+}
+
+section {
+    padding: 20px;
+    background-color:lightgreen;
+    image-resolution: 15px;
+    
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+img{
+    justify-content: right;
+}
+
+.SKILLS {
+    margin-bottom: 20px;
+    background-color: pink;
+}
+
+.social a {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #3498db;
+}
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: whitesmoke;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #3498db;
+    color:lightcoral;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 5px;
+    background-color:indigo;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #3498db;
+    text-align: center;
+    padding: 10px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 15px;
+}
+
+section {
+    padding: 20px;
+    background-color:lightpink;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #3498db;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.SKILLS {
+    margin-bottom: 20px;
+    border: 1px solid lightgrey;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.SKILLS h3 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    color: #3498db;
+}
+
+.social a {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #3498db;
+    font-size: 1.5em;
+}
+
+/* Add some hover effects for links */
+a:hover {
+    color: #ff5733;
+    transition: 0.3s;
+}
